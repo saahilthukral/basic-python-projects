@@ -1,4 +1,4 @@
-# basic-python-projects
+# Basic-python-projects
 
 ## This is a list of all the basic python programs that i have done or will do.
 
